@@ -9,11 +9,6 @@ Welcome to the **FDPB**! This project focuses on gathering Top 5 Football Databa
 This Dataset will be used as our data for Training and Testing for our Model related to our Project! 
 
 ---
-# BudayaKita
-
-Welcome to the **BudayaKita**! This project focuses on building a robust machine learning model for **Batik pattern classification**, , celebrating the rich diversity of **Indonesian Batik**. The dataset includes various Batik images and accompanying notebooks to facilitate training and testing of the model!
-
----
 
 ## Dataset Purpose👨‍🔬
 
