@@ -6,12 +6,6 @@ Welcome to the **FDPB**! This project focuses on gathering Top 5 Football Databa
 
 ## Dataset Purpose👨‍🔬
 
-This Dataset will be used as our data for Training and Testing for our Model related to our Project! 
-
----
-
-## Dataset Purpose👨‍🔬
-
 This Dataset and Notebook will be used as our Training and Testing for our Model related to our Project! 
 
 ---
